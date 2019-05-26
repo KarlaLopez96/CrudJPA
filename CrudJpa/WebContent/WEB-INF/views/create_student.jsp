@@ -11,7 +11,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	
-	<style>
+<style>
 		i {
 			font-size: 15px;
 			margin-right: 8px;
@@ -38,43 +38,6 @@
 			font-size: 65px;
 		}
 	
-		.center-block {
-			display: block;
-  			margin-right: auto;
-  			margin-left: auto;
-		}
-		
-		.form-container {
-			display: flex;
-    		justify-content: center;
-    		align-items: center;
-		}
-		
-		.form-container .fill-full-width {
-			flex: 1;
-		}
-		
-		.row-height {
-			height: 500px;
-		}
-						
-		.border-radius-padding {
-			border: 1px solid;
-    		padding: 8px;
-    		border-radius: 5px;
-		}
-		
-		.library-name-section {
-			display: flex;
-    		font-size: 45px;
-    		color: white;
-    		align-items: center;
-		}
-		
-		.button-fixed {
-			position: fixed;
-			margin-top: 150px;
-		}
 	</style>
 	
 </head>

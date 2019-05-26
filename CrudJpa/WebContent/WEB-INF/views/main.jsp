@@ -12,14 +12,6 @@
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 	
 	<style>
-		i {
-			font-size: 15px;
-			
-		}
-		
-		button {
-			width: 130px;
-		}
 		
 		nav {
 			position: fixed;
@@ -36,66 +28,6 @@
 		
 		nav i {
 			font-size: 65px;
-		}
-	
-		.center-block {
-			display: block;
-  			margin-right: auto;
-  			margin-left: auto;
-		}
-		
-		.form-container {
-			display: flex;
-    		justify-content: center;
-    		align-items: center;
-		}
-		
-		.form-container .fill-full-width {
-			flex: 1;
-		}
-		
-		.row-height {
-			height: 500px;
-		}
-						
-		.border-radius-padding {
-			border: 1px solid;
-    		padding: 8px;
-    		border-radius: 5px;
-		}
-		
-		.library-name-section {
-			display: flex;
-    		font-size: 45px;
-    		color: white;
-    		align-items: center;
-		}
-		
-		.last-column {
-			display: flex;
-			
-		}
-		
-		.last-column button {
-			flex: 1;
-		}
-				     
-		td.last-column:first-child {
-			margin-right: 8px;
-		}
-		
-		span > i {
-		    color: white;
-		}
-		span > input {
-		    background: none;
-		    color: white;
-		    padding: 0;
-		    border: 0;
-		}
-		
-		table{
-			table-layout: fixed;
 		}
 		
 		.button-fixed {

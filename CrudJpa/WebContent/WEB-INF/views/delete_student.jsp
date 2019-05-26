@@ -38,43 +38,6 @@
 			font-size: 65px;
 		}
 	
-		.center-block {
-			display: block;
-  			margin-right: auto;
-  			margin-left: auto;
-		}
-		
-		.form-container {
-			display: flex;
-    		justify-content: center;
-    		align-items: center;
-		}
-		
-		.form-container .fill-full-width {
-			flex: 1;
-		}
-		
-		.row-height {
-			height: 500px;
-		}
-						
-		.border-radius-padding {
-			border: 1px solid;
-    		padding: 8px;
-    		border-radius: 5px;
-		}
-		
-		.library-name-section {
-			display: flex;
-    		font-size: 45px;
-    		color: white;
-    		align-items: center;
-		}
-		
-		.button-fixed {
-			position: fixed;
-			margin-top: 150px;
-		}
 	</style>
 	
 </head>
